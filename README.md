@@ -9,7 +9,11 @@ INSTRUÇÕES
 
 	http://localhost:8080/api/login	   (POST)
 	http://localhost:8080/api/pedido   (POST) 
+	
+	ou utilizando o Swagger:
 
+    http://localhost:8080/swagger/index.html
+	 
 3. O endpoint de pedido deverá ter autorização (JWT com Bearer token). Qualquer que for email e password 
 irá gerar um token que expira a cada 2 horas.
 
