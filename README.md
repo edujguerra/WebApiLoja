@@ -22,3 +22,5 @@ irá gerar um token que expira a cada 2 horas.
 6. Tentei ao máximo utilizar os conceitos de clean arch, porém, mesmo pela solução não precisar 
     de um banco de dados, ficou mais simples.
 
+7. O Swagger foi implementado, porém realizei 90% dos testes com o Insomia, a princípio não é para 
+	dar problema.
