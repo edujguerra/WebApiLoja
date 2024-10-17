@@ -2,11 +2,11 @@
 
 namespace WebApiLoja.DTOs
 {
-    public class PedidoDTO
+    public class EntradaDTO
     {       
         public List<Pedido> pedidos { get; set; }
 
-        public PedidoDTO()
+        public EntradaDTO()
         {
             pedidos = new List<Pedido>();
         }
